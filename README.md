@@ -133,6 +133,6 @@ Request body
 ```
    Response: Filtered property listings
    
-10. Tq for the opportunity
+
 
 
