@@ -18,7 +18,6 @@ Register a new user account.
 
 1. **** Register a new user account.
    ```bash
-
 POST https://hypergro-ai-ak3e.onrender.com/userreg/register
 
 json
