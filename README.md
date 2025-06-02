@@ -106,8 +106,20 @@ POST https://hypergro-ai-ak3e.onrender.com/add/favorites/:propertyId
 8. Property Recommendations to other user
     Headers
    authorization: Bearer <token>
+
+
 ```bash
    GET https://hypergro-ai-ak3e.onrender.com/recommend/property
+```
+Request body
+```bash
+
+ {
+     "email":"bkashish077@gmail.com",
+     "propertyid":"683b40b9a0bf34e0d490904f"
+   
+
+}
 ```
 9. Property Search
     
