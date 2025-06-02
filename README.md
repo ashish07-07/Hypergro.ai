@@ -37,11 +37,11 @@ You will get a token back as response.
 
 Authorization: Bearer <token> have a header with authorization and a value of Bearer TOKEN
 Content-Type: multipart/form-data
+Key:csvFile
+Value:your csv file
 ```bash
 POST https://hypergro-ai-ak3e.onrender.com/upload/csvfile
 ```
-
-
 4. Add Property
     Headers
    authorization: Bearer <token>
@@ -133,6 +133,6 @@ Request body
 ```
    Response: Filtered property listings
    
-   
+10. Tq for the opportunity
 
 
