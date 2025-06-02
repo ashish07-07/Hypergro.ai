@@ -128,7 +128,8 @@ Request body
    https://hypergro-ai-ak3e.onrender.com/search/property?state=Karnataka&city=Bangalore
 
     GET https://hypergro-ai-ak3e.onrender.com/search/property?queries
-    Response: Filtered property listings
+```
+   Response: Filtered property listings
    
    
 
