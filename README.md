@@ -106,15 +106,16 @@ POST https://hypergro-ai-ak3e.onrender.com/add/favorites/:propertyId
 8. Property Recommendations to other user
     Headers
    authorization: Bearer <token>
-   ```bash
+```bash
    GET https://hypergro-ai-ak3e.onrender.com/recommend/property
-   ```
+```
 9. Property Search
     
     Exmaple https://hypergro-ai-ak3e.onrender.com/search/property?state=Karnataka&city=Bangalore
-    ```bash
+```bash
+
     GET https://hypergro-ai-ak3e.onrender.com/search/property?queries
-Response: Filtered property listings
+    Response: Filtered property listings
    
    
 
