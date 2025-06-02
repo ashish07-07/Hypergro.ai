@@ -14,7 +14,7 @@ Register a new user account.
   "email": "user@example.com",
   "password": "securepassword123"
 }
-
+```
 
 1. **** Register a new user account.
    ```bash
