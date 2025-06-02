@@ -123,8 +123,9 @@ Request body
 ```
 9. Property Search
     
-    Exmaple https://hypergro-ai-ak3e.onrender.com/search/property?state=Karnataka&city=Bangalore
+    
 ```bash
+   https://hypergro-ai-ak3e.onrender.com/search/property?state=Karnataka&city=Bangalore
 
     GET https://hypergro-ai-ak3e.onrender.com/search/property?queries
     Response: Filtered property listings
