@@ -38,6 +38,8 @@ You will get a token back as response.
 3 CSV File uplaod route To uplaod the Property details
 
 Authorization: Bearer <token> have a header with authorization and a value of Bearer TOKEN
+
+
 Key:csvFile
 Value:your csv file
 ```bash
