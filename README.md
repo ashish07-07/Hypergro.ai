@@ -6,7 +6,9 @@
 - **Backend Stack**: Node.js, Express.js,
 - **Languages**: Javascript,Typescript
 - **Database**:MongoDB
-- **Caching **: Redis
+- **Caching**: Redis
+- **Docker**
+- **Render**:Hosting 
 
 ## API Endpoints
 
