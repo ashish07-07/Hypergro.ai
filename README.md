@@ -5,19 +5,16 @@
 ### Authentication
 
 
-
-
-
-1. **User Registration**
+1. User Registration
    ```bash
-POST https://hypergro-ai-ak3e.onrender.com/userreg/register
+   POST https://hypergro-ai-ak3e.onrender.com/userreg/register
 
-  Request Body 
-  {
-  "name": "User Full Name",
-  "email": "user@example.com",
-  "password": "securepassword123"
-}
+   Request Body 
+    {
+    "name": "User Full Name",
+    "email": "user@example.com",
+   "password": "securepassword123"
+  }
 
 2. Login Route
 ```bash
